@@ -5,6 +5,9 @@ A simply-complex script that will automatically generate text wallpaper and set 
 ++ Screen: 1920x1080
 ++ Python: 3.7
 
+# Little Demo
++ https://youtu.be/rcGjx8zLePg
+
 # Prerequisite
 + Python 3.7
 + Pillow Package
